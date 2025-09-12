@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Cibicom A/S - DK Geofeed,lastupdated : 2023-06-22
+# Cibicom A/S - DK Geofeed,lastupdated : 2025-09-12
 92.241.192.0/20,DK,,,
 92.241.216.0/21,DK,,,
 157.250.160.0/20,DK,,,
@@ -12,6 +12,7 @@
 212.237.250.0/23,DK,,,
 217.61.250.0/23,DK,,,
 2a06:b00::/29,DK,,,
+
 
 
 
